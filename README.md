@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaKolis
--programming 👀 I’m interested in data analytics, R.
+-  I’m interested in data analytics, R.
 - 🌱 I’m currently learning google data analytics certificate course.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me annkolisnyk21@gmail.com
